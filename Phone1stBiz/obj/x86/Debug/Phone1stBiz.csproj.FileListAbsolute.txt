@@ -1,0 +1,12 @@
+F:\Phone1st_1차 완성\Phone1stBiz\bin\x86\Debug\Phone1stBiz.dll
+F:\Phone1st_1차 완성\Phone1stBiz\bin\x86\Debug\Phone1stBiz.pdb
+F:\Phone1st_1차 완성\Phone1stBiz\bin\x86\Debug\MySql.Data.dll
+F:\Phone1st_1차 완성\Phone1stBiz\obj\x86\Debug\Phone1stBiz.dll
+F:\Phone1st_1차 완성\Phone1stBiz\obj\x86\Debug\Phone1stBiz.pdb
+F:\Phone1st_최종\Phone1stBiz\bin\x86\Debug\Phone1stBiz.dll
+F:\Phone1st_최종\Phone1stBiz\bin\x86\Debug\Phone1stBiz.pdb
+F:\Phone1st_최종\Phone1stBiz\bin\x86\Debug\MySql.Data.dll
+F:\Phone1st_최종\Phone1stBiz\obj\x86\Debug\Interop.NetFwTypeLib.dll
+F:\Phone1st_최종\Phone1stBiz\obj\x86\Debug\Phone1stBiz.csproj.ResolveComReference.cache
+F:\Phone1st_최종\Phone1stBiz\obj\x86\Debug\Phone1stBiz.dll
+F:\Phone1st_최종\Phone1stBiz\obj\x86\Debug\Phone1stBiz.pdb

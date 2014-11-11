@@ -1,0 +1,21 @@
+2014-10-09 17:30:10 =====================================================
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Phone1stBiz.Business.Company.SetCompanyInfo(CompanyInfo cinfo) 파일 C:\Users\jh\Desktop\프린터\Phone1st\Phone1stBiz\Business\Company.cs:줄 181
+2014-10-09 17:31:55 =====================================================
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Phone1stBiz.Business.Company.SetCompanyInfo(CompanyInfo cinfo) 파일 C:\Users\jh\Desktop\프린터\Phone1st\Phone1stBiz\Business\Company.cs:줄 181
+2014-10-09 17:32:03 =====================================================
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Phone1stBiz.Business.Company.SetCompanyInfo(CompanyInfo cinfo) 파일 C:\Users\jh\Desktop\프린터\Phone1st\Phone1stBiz\Business\Company.cs:줄 181
+2014-10-09 17:36:49 =====================================================
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Phone1stBiz.Business.Company.SetCompanyInfo(CompanyInfo cinfo) 파일 C:\Users\jh\Desktop\프린터\Phone1st\Phone1stBiz\Business\Company.cs:줄 181
+2014-10-09 17:41:11 =====================================================
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Phone1stBiz.Business.Company.SetCompanyInfo(CompanyInfo cinfo) 파일 C:\Users\jh\Desktop\프린터\Phone1st\Phone1stBiz\Business\Company.cs:줄 181
+2014-10-09 17:42:14 =====================================================
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Phone1stBiz.Business.Company.SetCompanyInfo(CompanyInfo cinfo) 파일 C:\Users\jh\Desktop\프린터\Phone1st\Phone1stBiz\Business\Company.cs:줄 181
+2014-10-09 17:51:42 =====================================================
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Phone1stBiz.Business.Company.SetCompanyInfo(CompanyInfo cinfo) 파일 C:\Users\jh\Desktop\프린터\Phone1st\Phone1stBiz\Business\Company.cs:줄 181

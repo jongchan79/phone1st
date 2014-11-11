@@ -1,0 +1,42 @@
+2014-10-06 19:40:19 =====================================================
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.w_date FROM phonelist a LEFT JOIN phonemodellist b ON a.p_uid = b.uid    LEFT J' at line 1
+    SELECT a.*, b.PhoneName, b.ModelName, b.Manufacturer, b.agency, c.register c.w_date FROM phonelist a LEFT JOIN phonemodellist b ON a.p_uid = b.uid    LEFT JOIN orderlist c ON a.orderno = c.orderno WHERE a.sellOrderNo IS NULL  AND b.Manufacturer = 0
+2014-10-06 19:40:57 =====================================================
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.w_date FROM phonelist a LEFT JOIN phonemodellist b ON a.p_uid = b.uid    LEFT J' at line 1
+    SELECT a.*, b.PhoneName, b.ModelName, b.Manufacturer, b.agency, c.register c.w_date FROM phonelist a LEFT JOIN phonemodellist b ON a.p_uid = b.uid    LEFT JOIN orderlist c ON a.orderno = c.orderno WHERE a.sellOrderNo IS NULL  AND b.Manufacturer = 0
+2014-10-06 19:41:54 =====================================================
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.w_date FROM phonelist a LEFT JOIN phonemodellist b ON a.p_uid = b.uid    LEFT J' at line 1
+    SELECT a.*, b.PhoneName, b.ModelName, b.Manufacturer, b.agency, c.register c.w_date FROM phonelist a LEFT JOIN phonemodellist b ON a.p_uid = b.uid    LEFT JOIN orderlist c ON a.orderno = c.orderno WHERE a.sellOrderNo IS NULL  AND b.Manufacturer = 0 AND b.agenty = 0
+2014-10-06 19:42:01 =====================================================
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.w_date FROM phonelist a LEFT JOIN phonemodellist b ON a.p_uid = b.uid    LEFT J' at line 1
+    SELECT a.*, b.PhoneName, b.ModelName, b.Manufacturer, b.agency, c.register c.w_date FROM phonelist a LEFT JOIN phonemodellist b ON a.p_uid = b.uid    LEFT JOIN orderlist c ON a.orderno = c.orderno WHERE a.sellOrderNo IS NULL  AND b.Manufacturer = 0 AND b.agenty = 0
+2014-10-06 19:42:10 =====================================================
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.w_date FROM phonelist a LEFT JOIN phonemodellist b ON a.p_uid = b.uid    LEFT J' at line 1
+    SELECT a.*, b.PhoneName, b.ModelName, b.Manufacturer, b.agency, c.register c.w_date FROM phonelist a LEFT JOIN phonemodellist b ON a.p_uid = b.uid    LEFT JOIN orderlist c ON a.orderno = c.orderno WHERE a.sellOrderNo IS NULL  AND b.Manufacturer = 0 AND b.agenty = 0
+2014-10-06 19:42:16 =====================================================
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.w_date FROM phonelist a LEFT JOIN phonemodellist b ON a.p_uid = b.uid    LEFT J' at line 1
+    SELECT a.*, b.PhoneName, b.ModelName, b.Manufacturer, b.agency, c.register c.w_date FROM phonelist a LEFT JOIN phonemodellist b ON a.p_uid = b.uid    LEFT JOIN orderlist c ON a.orderno = c.orderno WHERE a.sellOrderNo IS NULL 
+2014-10-06 19:42:17 =====================================================
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.w_date FROM phonelist a LEFT JOIN phonemodellist b ON a.p_uid = b.uid    LEFT J' at line 1
+    SELECT a.*, b.PhoneName, b.ModelName, b.Manufacturer, b.agency, c.register c.w_date FROM phonelist a LEFT JOIN phonemodellist b ON a.p_uid = b.uid    LEFT JOIN orderlist c ON a.orderno = c.orderno WHERE a.sellOrderNo IS NULL 
+2014-10-06 19:42:18 =====================================================
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.w_date FROM phonelist a LEFT JOIN phonemodellist b ON a.p_uid = b.uid    LEFT J' at line 1
+    SELECT a.*, b.PhoneName, b.ModelName, b.Manufacturer, b.agency, c.register c.w_date FROM phonelist a LEFT JOIN phonemodellist b ON a.p_uid = b.uid    LEFT JOIN orderlist c ON a.orderno = c.orderno WHERE a.sellOrderNo IS NULL 
+2014-10-06 19:42:19 =====================================================
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.w_date FROM phonelist a LEFT JOIN phonemodellist b ON a.p_uid = b.uid    LEFT J' at line 1
+    SELECT a.*, b.PhoneName, b.ModelName, b.Manufacturer, b.agency, c.register c.w_date FROM phonelist a LEFT JOIN phonemodellist b ON a.p_uid = b.uid    LEFT JOIN orderlist c ON a.orderno = c.orderno WHERE a.sellOrderNo IS NULL 
+2014-10-06 19:45:06 =====================================================
+Unknown column 'b.agenty' in 'where clause'
+    SELECT a.*, b.PhoneName, b.ModelName, b.Manufacturer, b.agency, c.register, c.w_date FROM phonelist a LEFT JOIN phonemodellist b ON a.p_uid = b.uid    LEFT JOIN orderlist c ON a.orderno = c.orderno WHERE a.sellOrderNo IS NULL  AND b.Manufacturer = 0 AND b.agenty = 0
+2014-10-06 19:45:13 =====================================================
+Unknown column 'b.agenty' in 'where clause'
+    SELECT a.*, b.PhoneName, b.ModelName, b.Manufacturer, b.agency, c.register, c.w_date FROM phonelist a LEFT JOIN phonemodellist b ON a.p_uid = b.uid    LEFT JOIN orderlist c ON a.orderno = c.orderno WHERE a.sellOrderNo IS NULL  AND b.Manufacturer = 0 AND b.agenty = 0
+2014-10-06 23:47:41 =====================================================
+Unknown column 'Sellorderno' in 'where clause'
+   SELECT COUNT(*) FROM orderlist WHERE Sellorderno = '201410062347410'
+2014-10-06 23:48:34 =====================================================
+Unknown column 'Sellorderno' in 'where clause'
+   SELECT COUNT(*) FROM orderlist WHERE Sellorderno = '201410062348340'
+2014-10-06 23:56:42 =====================================================
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+ UPDATE phonelist SET sellPrice = 11111, sellorderno = '' WHERE uid =  

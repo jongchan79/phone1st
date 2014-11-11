@@ -1,0 +1,33 @@
+2014-10-05 11:23:49 =====================================================
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0}, memo = '{1}' WHERE uid = {2} 63' at line 1
+   UPDATE orderlist SET companySn = {0}, memo = '{1}' WHERE uid = {2} 63
+2014-10-05 11:25:12 =====================================================
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'phoneState = '4242f', buyPrice = 232, barcode = '', orderno = '4'' at line 1
+ INSERT INTO phonelist SET p_uid = 3, iemiNo = '232', uniqueKey = '22' phoneState = '4242f', buyPrice = 232, barcode = '', orderno = '4' 
+2014-10-05 11:31:36 =====================================================
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'phoneState = '345', buyPrice = 5345, barcode = '', orderno = '1'' at line 1
+ INSERT INTO phonelist SET p_uid = 5, iemiNo = '3453', uniqueKey = '3454' phoneState = '345', buyPrice = 5345, barcode = '', orderno = '1' 
+2014-10-05 11:39:00 =====================================================
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'phoneState = '46454', buyPrice = 565, barcode = '', orderno = '2'' at line 1
+ INSERT INTO phonelist SET p_uid = 4, iemiNo = '5656', uniqueKey = '565656' phoneState = '46454', buyPrice = 565, barcode = '', orderno = '2' 
+2014-10-05 11:41:49 =====================================================
+Unknown column 'butcount' in 'field list'
+ UPDATE orderlist SET buycount = butcount - 1 WHERE uid = 1 
+2014-10-05 12:59:09 =====================================================
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY uid DESC' at line 1
+    SELECT * FROM orderlist WHERE 1  AND companyNo =  ORDER BY uid DESC 
+2014-10-05 13:06:01 =====================================================
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY uid DESC' at line 1
+    SELECT * FROM orderlist WHERE 1  AND companyNo =  ORDER BY uid DESC 
+2014-10-05 13:10:32 =====================================================
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'companySn =  ORDER BY uid DESC' at line 1
+    SELECT a.*, b.companyName FROM orderlist a LEFT JOIN companylist b ON a.companySn = b.uid  WHERE 1  AND a,companySn =  ORDER BY uid DESC 
+2014-10-05 13:10:38 =====================================================
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'companySn =  ORDER BY uid DESC' at line 1
+    SELECT a.*, b.companyName FROM orderlist a LEFT JOIN companylist b ON a.companySn = b.uid  WHERE 1  AND a,companySn =  ORDER BY uid DESC 
+2014-10-05 15:34:09 =====================================================
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS CHAR) AS uid, companyName FROM companylist WHERE section = 2)  ORDER BY uid' at line 1
+ (SELECT '0' AS uid, '업체' AS companyName) UNION ALL  (SELECT CONVERT(uid AS CHAR) AS uid, companyName FROM companylist WHERE section = 2)  ORDER BY uid 
+2014-10-05 15:34:09 =====================================================
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS CHAR) AS uid, companyName FROM companylist WHERE section = 2)  ORDER BY uid' at line 1
+ (SELECT '0' AS uid, '업체' AS companyName) UNION ALL  (SELECT CONVERT(uid AS CHAR) AS uid, companyName FROM companylist WHERE section = 2)  ORDER BY uid 

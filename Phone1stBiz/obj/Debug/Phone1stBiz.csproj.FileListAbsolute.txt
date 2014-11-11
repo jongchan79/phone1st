@@ -1,0 +1,44 @@
+c:\users\use\documents\visual studio 2010\Projects\Phone1st\Phone1stBiz\bin\Debug\Phone1stBiz.dll
+c:\users\use\documents\visual studio 2010\Projects\Phone1st\Phone1stBiz\bin\Debug\Phone1stBiz.pdb
+c:\users\use\documents\visual studio 2010\Projects\Phone1st\Phone1stBiz\obj\Debug\Phone1stBiz.dll
+c:\users\use\documents\visual studio 2010\Projects\Phone1st\Phone1stBiz\obj\Debug\Phone1stBiz.pdb
+C:\Users\use\Documents\Visual Studio 2010\Projects\Phone1st\Phone1stBiz\obj\Debug\Phone1stBiz.csprojResolveAssemblyReference.cache
+C:\Users\use\Downloads\Projects\Phone1st\Phone1stBiz\obj\Debug\Phone1stBiz.csprojResolveAssemblyReference.cache
+C:\Users\use\Downloads\Projects\Phone1st\Phone1stBiz\obj\Debug\Phone1stBiz.dll
+C:\Users\use\Downloads\Projects\Phone1st\Phone1stBiz\bin\Debug\Phone1stBiz.dll
+C:\Users\use\Downloads\Projects\Phone1st\Phone1stBiz\bin\Debug\Phone1stBiz.pdb
+C:\Users\use\Downloads\Projects\Phone1st\Phone1stBiz\obj\Debug\Phone1stBiz.pdb
+C:\Users\use\Downloads\Projects\Phone1st\Phone1stBiz\bin\Debug\MySql.Data.dll
+C:\Users\jh\Desktop\Phone1st\Phone1stBiz\bin\Debug\Phone1stBiz.dll
+C:\Users\jh\Desktop\Phone1st\Phone1stBiz\bin\Debug\Phone1stBiz.pdb
+C:\Users\jh\Desktop\Phone1st\Phone1stBiz\bin\Debug\MySql.Data.dll
+C:\Users\jh\Desktop\Phone1st\Phone1stBiz\obj\Debug\Phone1stBiz.csprojResolveAssemblyReference.cache
+C:\Users\jh\Desktop\Phone1st\Phone1stBiz\obj\Debug\Phone1stBiz.dll
+C:\Users\jh\Desktop\Phone1st\Phone1stBiz\obj\Debug\Phone1stBiz.pdb
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1stBiz\bin\Debug\Phone1stBiz.dll
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1stBiz\bin\Debug\Phone1stBiz.pdb
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1stBiz\bin\Debug\MySql.Data.dll
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1stBiz\obj\Debug\Phone1stBiz.csprojResolveAssemblyReference.cache
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1stBiz\obj\Debug\Phone1stBiz.dll
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1stBiz\obj\Debug\Phone1stBiz.pdb
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1stBiz\obj\Debug\Interop.BXLLIBXLib.dll
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1stBiz\obj\Debug\Phone1stBiz.csproj.ResolveComReference.cache
+F:\Phone1st_1차 완성\Phone1stBiz\bin\Debug\Phone1stBiz.dll
+F:\Phone1st_1차 완성\Phone1stBiz\bin\Debug\Phone1stBiz.pdb
+F:\Phone1st_1차 완성\Phone1stBiz\bin\Debug\MySql.Data.dll
+F:\Phone1st_1차 완성\Phone1stBiz\obj\Debug\Phone1stBiz.dll
+F:\Phone1st_1차 완성\Phone1stBiz\obj\Debug\Phone1stBiz.pdb
+Z:\Phone1st_최종\Phone1st_최종\Phone1stBiz\bin\Debug\Phone1stBiz.dll
+Z:\Phone1st_최종\Phone1st_최종\Phone1stBiz\bin\Debug\Phone1stBiz.pdb
+Z:\Phone1st_최종\Phone1st_최종\Phone1stBiz\bin\Debug\MySql.Data.dll
+Z:\Phone1st_최종\Phone1st_최종\Phone1stBiz\obj\Debug\Phone1stBiz.csprojResolveAssemblyReference.cache
+Z:\Phone1st_최종\Phone1st_최종\Phone1stBiz\obj\Debug\Phone1stBiz.dll
+Z:\Phone1st_최종\Phone1st_최종\Phone1stBiz\obj\Debug\Phone1stBiz.pdb
+F:\Phone1st_최종\Phone1stBiz\bin\Debug\Phone1stBiz.dll
+F:\Phone1st_최종\Phone1stBiz\bin\Debug\Phone1stBiz.pdb
+F:\Phone1st_최종\Phone1stBiz\bin\Debug\MySql.Data.dll
+F:\Phone1st_최종\Phone1stBiz\obj\Debug\Phone1stBiz.csprojResolveAssemblyReference.cache
+F:\Phone1st_최종\Phone1stBiz\obj\Debug\Interop.NetFwTypeLib.dll
+F:\Phone1st_최종\Phone1stBiz\obj\Debug\Phone1stBiz.csproj.ResolveComReference.cache
+F:\Phone1st_최종\Phone1stBiz\obj\Debug\Phone1stBiz.dll
+F:\Phone1st_최종\Phone1stBiz\obj\Debug\Phone1stBiz.pdb

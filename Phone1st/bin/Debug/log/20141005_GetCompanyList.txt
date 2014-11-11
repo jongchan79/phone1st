@@ -1,0 +1,53 @@
+2014-10-05 12:59:09 =====================================================
+System.IndexOutOfRangeException: 0 테이블을 찾을 수 없습니다.
+   위치: System.Data.DataTableCollection.get_Item(Int32 index)
+   위치: Phone1stBiz.Business.Phone.GetOrderList(String startDate, String endDate, String company) 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1stBiz\Business\Phone.cs:줄 35
+2014-10-05 13:00:06 =====================================================
+System.ArgumentException: 'companyNo' 열은 Table 테이블에 속하지 않습니다.
+   위치: System.Data.DataRow.GetDataColumn(String columnName)
+   위치: System.Data.DataRow.get_Item(String columnName)
+   위치: Phone1stBiz.Business.Phone.GetOrderList(String startDate, String endDate, String company) 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1stBiz\Business\Phone.cs:줄 41
+2014-10-05 13:00:11 =====================================================
+System.ArgumentException: 'companyNo' 열은 Table 테이블에 속하지 않습니다.
+   위치: System.Data.DataRow.GetDataColumn(String columnName)
+   위치: System.Data.DataRow.get_Item(String columnName)
+   위치: Phone1stBiz.Business.Phone.GetOrderList(String startDate, String endDate, String company) 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1stBiz\Business\Phone.cs:줄 41
+2014-10-05 13:06:01 =====================================================
+System.IndexOutOfRangeException: 0 테이블을 찾을 수 없습니다.
+   위치: System.Data.DataTableCollection.get_Item(Int32 index)
+   위치: Phone1stBiz.Business.Phone.GetOrderList(String startDate, String endDate, String company) 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1stBiz\Business\Phone.cs:줄 35
+2014-10-05 13:06:27 =====================================================
+System.ArgumentException: 'companyNo' 열은 Table 테이블에 속하지 않습니다.
+   위치: System.Data.DataRow.GetDataColumn(String columnName)
+   위치: System.Data.DataRow.get_Item(String columnName)
+   위치: Phone1stBiz.Business.Phone.GetOrderList(String startDate, String endDate, String company) 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1stBiz\Business\Phone.cs:줄 41
+2014-10-05 13:10:32 =====================================================
+System.IndexOutOfRangeException: 0 테이블을 찾을 수 없습니다.
+   위치: System.Data.DataTableCollection.get_Item(Int32 index)
+   위치: Phone1stBiz.Business.Phone.GetOrderList(String startDate, String endDate, String company) 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1stBiz\Business\Phone.cs:줄 35
+2014-10-05 13:10:38 =====================================================
+System.IndexOutOfRangeException: 0 테이블을 찾을 수 없습니다.
+   위치: System.Data.DataTableCollection.get_Item(Int32 index)
+   위치: Phone1stBiz.Business.Phone.GetOrderList(String startDate, String endDate, String company) 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1stBiz\Business\Phone.cs:줄 35
+2014-10-05 15:34:09 =====================================================
+System.IndexOutOfRangeException: 0 테이블을 찾을 수 없습니다.
+   위치: System.Data.DataTableCollection.get_Item(Int32 index)
+   위치: Phone1stBiz.Business.Company.GetCompanyDropDown(Int32 section) 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1stBiz\Business\Company.cs:줄 43
+2014-10-05 15:34:09 =====================================================
+System.IndexOutOfRangeException: 0 테이블을 찾을 수 없습니다.
+   위치: System.Data.DataTableCollection.get_Item(Int32 index)
+   위치: Phone1stBiz.Business.Company.GetCompanyDropDown(Int32 section) 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1stBiz\Business\Company.cs:줄 43
+2014-10-05 15:42:33 =====================================================
+System.FormatException: 입력 문자열의 형식이 잘못되었습니다.
+   위치: System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   위치: System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   위치: System.Int16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   위치: System.Convert.ToInt16(String value)
+   위치: Phone1stBiz.Business.Phone.GetPhoneModelList(String manufacturer, String agency) 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1stBiz\Business\Phone.cs:줄 421
+2014-10-05 15:42:33 =====================================================
+System.FormatException: 입력 문자열의 형식이 잘못되었습니다.
+   위치: System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   위치: System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   위치: System.Int16.Parse(String s, NumberStyles style, NumberFormatInfo info)
+   위치: System.Convert.ToInt16(String value)
+   위치: Phone1stBiz.Business.Phone.GetPhoneModelList(String manufacturer, String agency) 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1stBiz\Business\Phone.cs:줄 421

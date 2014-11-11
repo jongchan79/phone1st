@@ -1,0 +1,96 @@
+2014-10-11 18:30:44 =====================================================
+System.IO.FileNotFoundException: 'F:\Phone1st_1차 완성\Phone1st\bin\Release\Maker.xml' 파일을 찾을 수 없습니다.
+파일 이름: 'F:\Phone1st_1차 완성\Phone1st\bin\Release\Maker.xml'
+   위치: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   위치: System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   위치: System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   위치: System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   위치: System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   위치: System.Xml.XmlTextReaderImpl.FinishInitUriString()
+   위치: System.Xml.XmlReaderSettings.CreateReader(String inputUri, XmlParserContext inputContext)
+   위치: System.Xml.Linq.XDocument.Load(String uri, LoadOptions options)
+   위치: Phone1stBiz.Business.Phone.GetMakerList() 파일 F:\Phone1st_1차 완성\Phone1stBiz\Business\Phone.cs:줄 952
+2014-10-11 18:30:44 =====================================================
+System.IO.FileNotFoundException: 'F:\Phone1st_1차 완성\Phone1st\bin\Release\Maker.xml' 파일을 찾을 수 없습니다.
+파일 이름: 'F:\Phone1st_1차 완성\Phone1st\bin\Release\Maker.xml'
+   위치: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   위치: System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   위치: System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   위치: System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   위치: System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   위치: System.Xml.XmlTextReaderImpl.FinishInitUriString()
+   위치: System.Xml.XmlReaderSettings.CreateReader(String inputUri, XmlParserContext inputContext)
+   위치: System.Xml.Linq.XDocument.Load(String uri, LoadOptions options)
+   위치: Phone1stBiz.Business.Phone.GetMakerList() 파일 F:\Phone1st_1차 완성\Phone1stBiz\Business\Phone.cs:줄 952
+2014-10-11 18:31:18 =====================================================
+System.IO.FileNotFoundException: 'F:\Phone1st_1차 완성\Phone1st\bin\Release\Maker.xml' 파일을 찾을 수 없습니다.
+파일 이름: 'F:\Phone1st_1차 완성\Phone1st\bin\Release\Maker.xml'
+   위치: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   위치: System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   위치: System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   위치: System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   위치: System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   위치: System.Xml.XmlTextReaderImpl.FinishInitUriString()
+   위치: System.Xml.XmlReaderSettings.CreateReader(String inputUri, XmlParserContext inputContext)
+   위치: System.Xml.Linq.XDocument.Load(String uri, LoadOptions options)
+   위치: Phone1stBiz.Business.Phone.GetMakerList() 파일 F:\Phone1st_1차 완성\Phone1stBiz\Business\Phone.cs:줄 952
+2014-10-11 18:31:18 =====================================================
+System.IO.FileNotFoundException: 'F:\Phone1st_1차 완성\Phone1st\bin\Release\Maker.xml' 파일을 찾을 수 없습니다.
+파일 이름: 'F:\Phone1st_1차 완성\Phone1st\bin\Release\Maker.xml'
+   위치: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   위치: System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   위치: System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   위치: System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   위치: System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   위치: System.Xml.XmlTextReaderImpl.FinishInitUriString()
+   위치: System.Xml.XmlReaderSettings.CreateReader(String inputUri, XmlParserContext inputContext)
+   위치: System.Xml.Linq.XDocument.Load(String uri, LoadOptions options)
+   위치: Phone1stBiz.Business.Phone.GetMakerList() 파일 F:\Phone1st_1차 완성\Phone1stBiz\Business\Phone.cs:줄 952
+2014-10-11 18:36:01 =====================================================
+System.IO.FileNotFoundException: 'F:\Phone1st_1차 완성\Phone1st\bin\Release\Maker.xml' 파일을 찾을 수 없습니다.
+파일 이름: 'F:\Phone1st_1차 완성\Phone1st\bin\Release\Maker.xml'
+   위치: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   위치: System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   위치: System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   위치: System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   위치: System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   위치: System.Xml.XmlTextReaderImpl.FinishInitUriString()
+   위치: System.Xml.XmlReaderSettings.CreateReader(String inputUri, XmlParserContext inputContext)
+   위치: System.Xml.Linq.XDocument.Load(String uri, LoadOptions options)
+   위치: Phone1stBiz.Business.Phone.GetMakerList() 파일 F:\Phone1st_1차 완성\Phone1stBiz\Business\Phone.cs:줄 952
+2014-10-11 18:36:01 =====================================================
+System.IO.FileNotFoundException: 'F:\Phone1st_1차 완성\Phone1st\bin\Release\Maker.xml' 파일을 찾을 수 없습니다.
+파일 이름: 'F:\Phone1st_1차 완성\Phone1st\bin\Release\Maker.xml'
+   위치: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   위치: System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   위치: System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   위치: System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   위치: System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   위치: System.Xml.XmlTextReaderImpl.FinishInitUriString()
+   위치: System.Xml.XmlReaderSettings.CreateReader(String inputUri, XmlParserContext inputContext)
+   위치: System.Xml.Linq.XDocument.Load(String uri, LoadOptions options)
+   위치: Phone1stBiz.Business.Phone.GetMakerList() 파일 F:\Phone1st_1차 완성\Phone1stBiz\Business\Phone.cs:줄 952
+2014-10-11 18:37:11 =====================================================
+System.IO.FileNotFoundException: 'F:\Phone1st_1차 완성\Phone1st\bin\Release\Maker.xml' 파일을 찾을 수 없습니다.
+파일 이름: 'F:\Phone1st_1차 완성\Phone1st\bin\Release\Maker.xml'
+   위치: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   위치: System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   위치: System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   위치: System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   위치: System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   위치: System.Xml.XmlTextReaderImpl.FinishInitUriString()
+   위치: System.Xml.XmlReaderSettings.CreateReader(String inputUri, XmlParserContext inputContext)
+   위치: System.Xml.Linq.XDocument.Load(String uri, LoadOptions options)
+   위치: Phone1stBiz.Business.Phone.GetMakerList() 파일 F:\Phone1st_1차 완성\Phone1stBiz\Business\Phone.cs:줄 952
+2014-10-11 18:37:11 =====================================================
+System.IO.FileNotFoundException: 'F:\Phone1st_1차 완성\Phone1st\bin\Release\Maker.xml' 파일을 찾을 수 없습니다.
+파일 이름: 'F:\Phone1st_1차 완성\Phone1st\bin\Release\Maker.xml'
+   위치: System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   위치: System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   위치: System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy)
+   위치: System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   위치: System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   위치: System.Xml.XmlTextReaderImpl.FinishInitUriString()
+   위치: System.Xml.XmlReaderSettings.CreateReader(String inputUri, XmlParserContext inputContext)
+   위치: System.Xml.Linq.XDocument.Load(String uri, LoadOptions options)
+   위치: Phone1stBiz.Business.Phone.GetMakerList() 파일 F:\Phone1st_1차 완성\Phone1stBiz\Business\Phone.cs:줄 952

@@ -1,0 +1,8 @@
+2014-10-07 22:39:53 =====================================================
+System.IndexOutOfRangeException: 0 테이블을 찾을 수 없습니다.
+   위치: System.Data.DataTableCollection.get_Item(Int32 index)
+   위치: Phone1stBiz.Business.Company.GetCompanyDropDown(Int32 section) 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1stBiz\Business\Company.cs:줄 43
+2014-10-07 22:39:54 =====================================================
+System.IndexOutOfRangeException: 0 테이블을 찾을 수 없습니다.
+   위치: System.Data.DataTableCollection.get_Item(Int32 index)
+   위치: Phone1stBiz.Business.Company.GetCompanyDropDown(Int32 section) 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1stBiz\Business\Company.cs:줄 43

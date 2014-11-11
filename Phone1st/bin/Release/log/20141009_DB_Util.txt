@@ -1,0 +1,11 @@
+2014-10-09 11:58:14 =====================================================
+MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   위치: MySql.Data.MySqlClient.NativeDriver.Open()
+   위치: MySql.Data.MySqlClient.Driver.Open()
+   위치: MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   위치: MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   위치: MySql.Data.MySqlClient.MySqlPool..ctor(MySqlConnectionStringBuilder settings)
+   위치: MySql.Data.MySqlClient.MySqlPoolManager.GetPool(MySqlConnectionStringBuilder settings)
+   위치: MySql.Data.MySqlClient.MySqlConnection.Open()
+   위치: Phone1stBiz.DBUTIL..ctor() 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1stBiz\DB_Util.cs:줄 38
+

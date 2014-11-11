@@ -1,0 +1,42 @@
+2014-10-07 00:55:47 =====================================================
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Phone1st.Forms.SellMain.SetCompanyInfo() 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1st\Forms\SellMain.cs:줄 140
+2014-10-07 00:55:48 =====================================================
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Phone1st.Forms.SellMain.SetCompanyInfo() 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1st\Forms\SellMain.cs:줄 140
+2014-10-07 00:55:49 =====================================================
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Phone1st.Forms.SellMain.SetCompanyInfo() 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1st\Forms\SellMain.cs:줄 140
+2014-10-07 00:55:53 =====================================================
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Phone1st.Forms.SellMain.SetCompanyInfo() 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1st\Forms\SellMain.cs:줄 140
+2014-10-07 00:55:53 =====================================================
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Phone1st.Forms.SellMain.SetCompanyInfo() 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1st\Forms\SellMain.cs:줄 140
+2014-10-07 00:55:54 =====================================================
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Phone1st.Forms.SellMain.SetCompanyInfo() 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1st\Forms\SellMain.cs:줄 140
+2014-10-07 01:20:36 =====================================================
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Phone1st.Forms.SellMain.SetCompanyInfo() 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1st\Forms\SellMain.cs:줄 153
+2014-10-07 01:20:37 =====================================================
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Phone1st.Forms.SellMain.SetCompanyInfo() 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1st\Forms\SellMain.cs:줄 153
+2014-10-07 01:20:37 =====================================================
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Phone1st.Forms.SellMain.SetCompanyInfo() 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1st\Forms\SellMain.cs:줄 153
+2014-10-07 01:20:38 =====================================================
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Phone1st.Forms.SellMain.SetCompanyInfo() 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1st\Forms\SellMain.cs:줄 153
+2014-10-07 01:38:17 =====================================================
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Phone1st.Forms.SellMain.SetCompanyInfo() 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1st\Forms\SellMain.cs:줄 153
+2014-10-07 01:38:19 =====================================================
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Phone1st.Forms.SellMain.SetCompanyInfo() 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1st\Forms\SellMain.cs:줄 153
+2014-10-07 01:38:20 =====================================================
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Phone1st.Forms.SellMain.SetCompanyInfo() 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1st\Forms\SellMain.cs:줄 153
+2014-10-07 01:38:22 =====================================================
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Phone1st.Forms.SellMain.SetCompanyInfo() 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1st\Forms\SellMain.cs:줄 153

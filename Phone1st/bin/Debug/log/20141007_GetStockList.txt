@@ -1,0 +1,10 @@
+2014-10-07 23:08:32 =====================================================
+System.ArgumentException: 'p_uid' 열은 Table 테이블에 속하지 않습니다.
+   위치: System.Data.DataRow.GetDataColumn(String columnName)
+   위치: System.Data.DataRow.get_Item(String columnName)
+   위치: Phone1stBiz.Business.Phone.GetStockList(String Maker, String agency) 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1stBiz\Business\Phone.cs:줄 46
+2014-10-07 23:08:35 =====================================================
+System.ArgumentException: 'p_uid' 열은 Table 테이블에 속하지 않습니다.
+   위치: System.Data.DataRow.GetDataColumn(String columnName)
+   위치: System.Data.DataRow.get_Item(String columnName)
+   위치: Phone1stBiz.Business.Phone.GetStockList(String Maker, String agency) 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1stBiz\Business\Phone.cs:줄 46

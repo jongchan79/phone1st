@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Makers>
+  <Maker>
+    <No>0</No>
+    <MakerName>제조사</MakerName>
+  </Maker>
+  <Maker>
+    <No>1</No>
+    <MakerName>삼성</MakerName>
+  </Maker>
+  <Maker>
+    <No>2</No>
+    <MakerName>애플</MakerName>
+  </Maker>
+  <Maker>
+    <No>3</No>
+    <MakerName>LG</MakerName>
+  </Maker>
+  <Maker>
+    <No>4</No>
+    <MakerName>모토로라</MakerName>
+  </Maker>
+  <Maker>
+    <No>5</No>
+    <MakerName>htc</MakerName>
+  </Maker>
+  <Maker>
+    <No>6</No>
+    <MakerName>Sky</MakerName>
+  </Maker>
+  <Maker>
+    <No>99</No>
+    <MakerName>기타</MakerName>
+  </Maker>
+</Makers>

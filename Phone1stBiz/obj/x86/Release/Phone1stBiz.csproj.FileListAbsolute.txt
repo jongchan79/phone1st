@@ -1,0 +1,17 @@
+F:\Phone1st_1차 완성\Phone1stBiz\bin\x86\Release\Phone1stBiz.dll
+F:\Phone1st_1차 완성\Phone1stBiz\bin\x86\Release\Phone1stBiz.pdb
+F:\Phone1st_1차 완성\Phone1stBiz\bin\x86\Release\MySql.Data.dll
+F:\Phone1st_1차 완성\Phone1stBiz\obj\x86\Release\Phone1stBiz.dll
+F:\Phone1st_1차 완성\Phone1stBiz\obj\x86\Release\Phone1stBiz.pdb
+E:\work\Phone1st_최종\Phone1stBiz\bin\x86\Release\Phone1stBiz.dll
+E:\work\Phone1st_최종\Phone1stBiz\bin\x86\Release\Phone1stBiz.pdb
+E:\work\Phone1st_최종\Phone1stBiz\bin\x86\Release\MySql.Data.dll
+E:\work\Phone1st_최종\Phone1stBiz\obj\x86\Release\Phone1stBiz.dll
+E:\work\Phone1st_최종\Phone1stBiz\obj\x86\Release\Phone1stBiz.pdb
+F:\Phone1st_최종\Phone1stBiz\bin\x86\Release\Phone1stBiz.dll
+F:\Phone1st_최종\Phone1stBiz\bin\x86\Release\Phone1stBiz.pdb
+F:\Phone1st_최종\Phone1stBiz\bin\x86\Release\MySql.Data.dll
+F:\Phone1st_최종\Phone1stBiz\obj\x86\Release\Interop.NetFwTypeLib.dll
+F:\Phone1st_최종\Phone1stBiz\obj\x86\Release\Phone1stBiz.csproj.ResolveComReference.cache
+F:\Phone1st_최종\Phone1stBiz\obj\x86\Release\Phone1stBiz.dll
+F:\Phone1st_최종\Phone1stBiz\obj\x86\Release\Phone1stBiz.pdb

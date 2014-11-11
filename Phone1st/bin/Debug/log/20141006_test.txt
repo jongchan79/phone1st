@@ -1,0 +1,150 @@
+2014-10-06 19:35:14 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 19:49:10 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 19:51:42 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 19:52:19 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 20:37:52 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 20:39:54 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 20:39:58 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 1
+2014-10-06 20:41:00 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 20:41:06 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND agency = 2
+2014-10-06 20:41:51 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 20:42:10 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 20:42:15 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 4
+2014-10-06 20:42:18 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 2
+2014-10-06 20:51:42 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 20:51:46 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 20:53:42 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 20:53:42 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 20:53:47 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 2
+2014-10-06 20:53:50 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 4
+2014-10-06 20:53:52 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 1
+2014-10-06 20:53:54 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 1 AND agency = 1
+2014-10-06 20:53:56 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 3 AND agency = 1
+2014-10-06 20:56:30 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 20:56:30 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 20:56:35 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 21:01:40 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 21:03:18 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 21:12:28 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 21:13:08 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 21:13:17 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 3 AND agency = 2
+2014-10-06 21:13:37 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 1 AND agency = 2
+2014-10-06 21:14:36 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 21:14:41 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 1
+2014-10-06 21:14:46 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 3
+2014-10-06 21:14:52 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 21:15:22 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 21:15:25 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 2
+2014-10-06 21:15:30 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 4
+2014-10-06 21:16:12 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 21:16:16 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND agency = 2
+2014-10-06 21:16:18 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND agency = 1
+2014-10-06 21:16:20 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 2 AND agency = 1
+2014-10-06 21:16:22 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 3 AND agency = 1
+2014-10-06 21:16:24 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 4 AND agency = 1
+2014-10-06 21:16:57 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 21:17:11 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND agency = 2
+2014-10-06 21:17:15 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 1 AND agency = 2
+2014-10-06 21:17:20 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 3 AND agency = 2
+2014-10-06 21:18:02 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 21:18:03 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 1
+2014-10-06 21:18:05 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 3
+2014-10-06 21:18:07 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 4
+2014-10-06 21:19:40 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 21:19:43 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 2
+2014-10-06 21:19:44 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 4
+2014-10-06 21:19:47 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 2
+2014-10-06 21:22:58 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 21:23:05 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 21:23:17 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 21:23:27 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 21:26:52 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 21:27:02 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 21:30:42 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 21:30:44 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 3
+2014-10-06 21:30:46 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 1
+2014-10-06 21:30:48 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 1 AND agency = 3
+2014-10-06 21:30:55 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 21:32:43 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 21:32:45 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND agency = 2
+2014-10-06 21:32:46 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 1 AND agency = 2
+2014-10-06 21:32:48 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 1 AND agency = 1
+2014-10-06 21:43:54 =====================================================
+    SELECT * FROM phonemodellist WHERE 1 
+2014-10-06 21:43:58 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 3
+2014-10-06 21:44:00 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 2
+2014-10-06 21:44:01 =====================================================
+    SELECT * FROM phonemodellist WHERE 1  AND Manufacturer = 4

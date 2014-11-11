@@ -1,0 +1,127 @@
+c:\users\use\documents\visual studio 2010\Projects\Phone1st\Phone1st\bin\Debug\Phone1st.exe
+c:\users\use\documents\visual studio 2010\Projects\Phone1st\Phone1st\bin\Debug\Phone1st.pdb
+c:\users\use\documents\visual studio 2010\Projects\Phone1st\Phone1st\obj\x86\Debug\Phone1st.frmLogin.resources
+c:\users\use\documents\visual studio 2010\Projects\Phone1st\Phone1st\obj\x86\Debug\Phone1st.MainForm.resources
+c:\users\use\documents\visual studio 2010\Projects\Phone1st\Phone1st\obj\x86\Debug\Phone1st.Properties.Resources.resources
+c:\users\use\documents\visual studio 2010\Projects\Phone1st\Phone1st\obj\x86\Debug\Phone1st.csproj.GenerateResource.Cache
+c:\users\use\documents\visual studio 2010\Projects\Phone1st\Phone1st\obj\x86\Debug\Phone1st.exe
+c:\users\use\documents\visual studio 2010\Projects\Phone1st\Phone1st\obj\x86\Debug\Phone1st.pdb
+c:\users\use\documents\visual studio 2010\Projects\Phone1st\Phone1st\bin\Debug\Phone1stBiz.dll
+c:\users\use\documents\visual studio 2010\Projects\Phone1st\Phone1st\bin\Debug\Phone1stBiz.pdb
+c:\users\use\documents\visual studio 2010\Projects\Phone1st\Phone1st\obj\x86\Debug\Phone1st.csprojResolveAssemblyReference.cache
+C:\Users\use\Documents\Visual Studio 2010\Projects\Phone1st\Phone1st\obj\x86\Debug\Phone1st.Forms.BuyMain.resources
+C:\Users\use\Documents\Visual Studio 2010\Projects\Phone1st\Phone1st\obj\x86\Debug\Phone1st.Forms.SellMain.resources
+C:\Users\use\Documents\Visual Studio 2010\Projects\Phone1st\Phone1st\obj\x86\Debug\Phone1st.Forms.CompanyMain.resources
+C:\Users\use\Downloads\Projects\Phone1st\Phone1st\obj\x86\Debug\Phone1st.exe
+C:\Users\use\Downloads\Projects\Phone1st\Phone1st\obj\x86\Debug\Phone1st.pdb
+C:\Users\use\Downloads\Projects\Phone1st\Phone1st\bin\Debug\Phone1st.exe
+C:\Users\use\Downloads\Projects\Phone1st\Phone1st\bin\Debug\Phone1st.pdb
+C:\Users\use\Downloads\Projects\Phone1st\Phone1st\bin\Debug\Phone1stBiz.dll
+C:\Users\use\Downloads\Projects\Phone1st\Phone1st\bin\Debug\Phone1stBiz.pdb
+C:\Users\use\Downloads\Projects\Phone1st\Phone1st\obj\x86\Debug\Phone1st.csprojResolveAssemblyReference.cache
+C:\Users\use\Downloads\Projects\Phone1st\Phone1st\obj\x86\Debug\Phone1st.Forms.BuyMain.resources
+C:\Users\use\Downloads\Projects\Phone1st\Phone1st\obj\x86\Debug\Phone1st.Forms.CompanyMain.resources
+C:\Users\use\Downloads\Projects\Phone1st\Phone1st\obj\x86\Debug\Phone1st.Forms.SellMain.resources
+C:\Users\use\Downloads\Projects\Phone1st\Phone1st\obj\x86\Debug\Phone1st.frmLogin.resources
+C:\Users\use\Downloads\Projects\Phone1st\Phone1st\obj\x86\Debug\Phone1st.MainForm.resources
+C:\Users\use\Downloads\Projects\Phone1st\Phone1st\obj\x86\Debug\Phone1st.Properties.Resources.resources
+C:\Users\use\Downloads\Projects\Phone1st\Phone1st\obj\x86\Debug\Phone1st.csproj.GenerateResource.Cache
+C:\Users\use\Downloads\Projects\Phone1st\Phone1st\obj\x86\Debug\Phone1st.Forms.PhoneModel.resources
+C:\Users\use\Downloads\Projects\Phone1st\Phone1st\obj\x86\Debug\Phone1st.Forms.phoneUC.resources
+C:\Users\use\Downloads\Projects\Phone1st\Phone1st\obj\x86\Debug\Phone1st.PhoneSearch.resources
+C:\Users\use\Downloads\Projects\Phone1st\Phone1st\obj\x86\Debug\Phone1st.StockList.resources
+C:\Users\use\Downloads\Projects\Phone1st\Phone1st\obj\x86\Debug\Phone1st.Forms.StockMain.resources
+C:\Users\use\Downloads\Projects\Phone1st\Phone1st\bin\Debug\GenCode128.dll
+C:\Users\use\Downloads\Projects\Phone1st\Phone1st\bin\Debug\GenCode128.pdb
+C:\Users\use\Downloads\Projects\Phone1st\Phone1st\bin\Debug\MySql.Data.dll
+C:\Users\jh\Desktop\Phone1st\Phone1st\obj\x86\Debug\Phone1st.exe
+C:\Users\jh\Desktop\Phone1st\Phone1st\obj\x86\Debug\Phone1st.pdb
+C:\Users\jh\Desktop\Phone1st\Phone1st\bin\Debug\Phone1st.exe
+C:\Users\jh\Desktop\Phone1st\Phone1st\bin\Debug\Phone1st.pdb
+C:\Users\jh\Desktop\Phone1st\Phone1st\bin\Debug\Phone1stBiz.dll
+C:\Users\jh\Desktop\Phone1st\Phone1st\bin\Debug\MySql.Data.dll
+C:\Users\jh\Desktop\Phone1st\Phone1st\bin\Debug\Phone1stBiz.pdb
+C:\Users\jh\Desktop\Phone1st\Phone1st\bin\Debug\GenCode128.pdb
+C:\Users\jh\Desktop\Phone1st\Phone1st\obj\x86\Debug\Phone1st.csprojResolveAssemblyReference.cache
+C:\Users\jh\Desktop\Phone1st\Phone1st\obj\x86\Debug\Phone1st.Forms.BuyMain.resources
+C:\Users\jh\Desktop\Phone1st\Phone1st\obj\x86\Debug\Phone1st.Forms.CompanyMain.resources
+C:\Users\jh\Desktop\Phone1st\Phone1st\obj\x86\Debug\Phone1st.Forms.PhoneModel.resources
+C:\Users\jh\Desktop\Phone1st\Phone1st\obj\x86\Debug\Phone1st.Forms.phoneUC.resources
+C:\Users\jh\Desktop\Phone1st\Phone1st\obj\x86\Debug\Phone1st.Forms.SellMain.resources
+C:\Users\jh\Desktop\Phone1st\Phone1st\obj\x86\Debug\Phone1st.Forms.StockMain.resources
+C:\Users\jh\Desktop\Phone1st\Phone1st\obj\x86\Debug\Phone1st.frmLogin.resources
+C:\Users\jh\Desktop\Phone1st\Phone1st\obj\x86\Debug\Phone1st.MainForm.resources
+C:\Users\jh\Desktop\Phone1st\Phone1st\obj\x86\Debug\Phone1st.PhoneSearch.resources
+C:\Users\jh\Desktop\Phone1st\Phone1st\obj\x86\Debug\Phone1st.Properties.Resources.resources
+C:\Users\jh\Desktop\Phone1st\Phone1st\obj\x86\Debug\Phone1st.StockList.resources
+C:\Users\jh\Desktop\Phone1st\Phone1st\obj\x86\Debug\Phone1st.csproj.GenerateResource.Cache
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1st\bin\Debug\Phone1st.exe
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1st\bin\Debug\Phone1st.pdb
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1st\bin\Debug\Phone1stBiz.dll
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1st\bin\Debug\MySql.Data.dll
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1st\bin\Debug\Phone1stBiz.pdb
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1st\bin\Debug\GenCode128.pdb
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1st\obj\x86\Debug\Phone1st.csprojResolveAssemblyReference.cache
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1st\obj\x86\Debug\Phone1st.Forms.BuyMain.resources
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1st\obj\x86\Debug\Phone1st.Forms.CompanyMain.resources
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1st\obj\x86\Debug\Phone1st.Forms.PhoneModel.resources
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1st\obj\x86\Debug\Phone1st.Forms.phoneUC.resources
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1st\obj\x86\Debug\Phone1st.Forms.SellMain.resources
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1st\obj\x86\Debug\Phone1st.Forms.StockMain.resources
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1st\obj\x86\Debug\Phone1st.frmLogin.resources
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1st\obj\x86\Debug\Phone1st.MainForm.resources
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1st\obj\x86\Debug\Phone1st.PhoneSearch.resources
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1st\obj\x86\Debug\Phone1st.Properties.Resources.resources
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1st\obj\x86\Debug\Phone1st.StockList.resources
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1st\obj\x86\Debug\Phone1st.csproj.GenerateResource.Cache
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1st\obj\x86\Debug\Phone1st.exe
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1st\obj\x86\Debug\Phone1st.pdb
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1st\obj\x86\Debug\Interop.BXLLIBXLib.dll
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1st\obj\x86\Debug\Phone1st.csproj.ResolveComReference.cache
+C:\Users\jh\Desktop\프린터\Phone1st\Phone1st\obj\x86\Debug\Phone1st.PrintForm.resources
+F:\Phone1st_1차 완성\Phone1st\obj\x86\Debug\Phone1st.exe
+F:\Phone1st_1차 완성\Phone1st\obj\x86\Debug\Phone1st.pdb
+F:\Phone1st_1차 완성\Phone1st\bin\Debug\Phone1st.exe
+F:\Phone1st_1차 완성\Phone1st\bin\Debug\Phone1st.pdb
+F:\Phone1st_1차 완성\Phone1st\bin\Debug\Phone1stBiz.dll
+F:\Phone1st_1차 완성\Phone1st\bin\Debug\MySql.Data.dll
+F:\Phone1st_1차 완성\Phone1st\bin\Debug\Phone1stBiz.pdb
+F:\Phone1st_1차 완성\Phone1st\obj\x86\Debug\Phone1st.csprojResolveAssemblyReference.cache
+F:\Phone1st_1차 완성\Phone1st\obj\x86\Debug\Phone1st.Forms.BuyMain.resources
+F:\Phone1st_1차 완성\Phone1st\obj\x86\Debug\Phone1st.Forms.CompanyMain.resources
+F:\Phone1st_1차 완성\Phone1st\obj\x86\Debug\Phone1st.Forms.PhoneModel.resources
+F:\Phone1st_1차 완성\Phone1st\obj\x86\Debug\Phone1st.Forms.phoneUC.resources
+F:\Phone1st_1차 완성\Phone1st\obj\x86\Debug\Phone1st.Forms.SellMain.resources
+F:\Phone1st_1차 완성\Phone1st\obj\x86\Debug\Phone1st.Forms.StockMain.resources
+F:\Phone1st_1차 완성\Phone1st\obj\x86\Debug\Phone1st.frmLogin.resources
+F:\Phone1st_1차 완성\Phone1st\obj\x86\Debug\Phone1st.MainForm.resources
+F:\Phone1st_1차 완성\Phone1st\obj\x86\Debug\Phone1st.PhoneSearch.resources
+F:\Phone1st_1차 완성\Phone1st\obj\x86\Debug\Phone1st.PrintForm.resources
+F:\Phone1st_1차 완성\Phone1st\obj\x86\Debug\Phone1st.Properties.Resources.resources
+F:\Phone1st_1차 완성\Phone1st\obj\x86\Debug\Phone1st.StockList.resources
+F:\Phone1st_1차 완성\Phone1st\obj\x86\Debug\Phone1st.csproj.GenerateResource.Cache
+F:\Phone1st_1차 완성\Phone1st\obj\x86\Debug\Phone1st.Forms.companyUC.resources
+F:\Phone1st_1차 완성\Phone1st\obj\x86\Debug\Phone1st.Forms.SalesMain.resources
+F:\Phone1st_1차 완성\Phone1st\obj\x86\Debug\Interop.DeviceManagerLib.dll
+F:\Phone1st_1차 완성\Phone1st\obj\x86\Debug\Phone1st.csproj.ResolveComReference.cache
+F:\Phone1st_1차 완성\Phone1st\obj\x86\Debug\Phone1st.usbForm.resources
+F:\Phone1st_1차 완성\Phone1st\obj\x86\Debug\Phone1st.UserControl1.resources
+F:\Phone1st_최종\Phone1st\obj\x86\Debug\Phone1st.csprojResolveAssemblyReference.cache
+F:\Phone1st_최종\Phone1st\obj\x86\Debug\Phone1st.csproj.ResolveComReference.cache
+F:\Phone1st_최종\Phone1st\obj\x86\Debug\Phone1st.Forms.BuyMain.resources
+F:\Phone1st_최종\Phone1st\obj\x86\Debug\Phone1st.Forms.CompanyMain.resources
+F:\Phone1st_최종\Phone1st\obj\x86\Debug\Phone1st.Forms.companyUC.resources
+F:\Phone1st_최종\Phone1st\obj\x86\Debug\Phone1st.Forms.PhoneModel.resources
+F:\Phone1st_최종\Phone1st\obj\x86\Debug\Phone1st.Forms.phoneUC.resources
+F:\Phone1st_최종\Phone1st\obj\x86\Debug\Phone1st.Forms.SalesMain.resources
+F:\Phone1st_최종\Phone1st\obj\x86\Debug\Phone1st.Forms.SellMain.resources
+F:\Phone1st_최종\Phone1st\obj\x86\Debug\Phone1st.Forms.StockMain.resources
+F:\Phone1st_최종\Phone1st\obj\x86\Debug\Phone1st.frmLogin.resources
+F:\Phone1st_최종\Phone1st\obj\x86\Debug\Phone1st.MainForm.resources
+F:\Phone1st_최종\Phone1st\obj\x86\Debug\Phone1st.PhoneSearch.resources
+F:\Phone1st_최종\Phone1st\obj\x86\Debug\Phone1st.PrintForm.resources
+F:\Phone1st_최종\Phone1st\obj\x86\Debug\Phone1st.Properties.Resources.resources
+F:\Phone1st_최종\Phone1st\obj\x86\Debug\Phone1st.StockList.resources
+F:\Phone1st_최종\Phone1st\obj\x86\Debug\Phone1st.usbForm.resources
+F:\Phone1st_최종\Phone1st\obj\x86\Debug\Phone1st.UserControl1.resources
+F:\Phone1st_최종\Phone1st\obj\x86\Debug\Phone1st.csproj.GenerateResource.Cache

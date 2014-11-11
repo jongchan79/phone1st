@@ -1,0 +1,12 @@
+2014-10-12 15:20:51 =====================================================
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''),20)' at line 1
+   위치: MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   위치: MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   위치: MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   위치: MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   위치: MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteScalar()
+   위치: Phone1stBiz.DBUTIL.CreateMySqlExecuteInt(String dataQueryString, Int32 commandTimeOut) 파일 F:\Phone1st_1차 완성\Phone1stBiz\DB_Util.cs:줄 113
+   SELECT COUNT(*) FROM chan_membership WHERE userid = 'spazio79' AND userpassword = RIGHT(MD5('3'dfg'),20)

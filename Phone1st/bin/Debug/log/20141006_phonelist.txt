@@ -1,0 +1,3 @@
+2014-10-06 21:19:45 =====================================================
+System.NullReferenceException: 개체 참조가 개체의 인스턴스로 설정되지 않았습니다.
+   위치: Phone1st.Forms.PhoneModel.phoneList_Click(Object sender, EventArgs e) 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1st\Forms\PhoneModel.cs:줄 175

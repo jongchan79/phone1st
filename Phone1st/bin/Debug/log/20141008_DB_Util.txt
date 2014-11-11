@@ -1,0 +1,86 @@
+2014-10-08 19:14:54 =====================================================
+Can't connect to MySQL server on 'localhost' (10061):
+대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:3306
+
+2014-10-08 19:14:56 =====================================================
+Can't connect to MySQL server on 'localhost' (10061):
+대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:3306
+
+2014-10-08 19:37:40 =====================================================
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ' barcode = '' WHERE uid = 12' at line 1
+   UPDATE phonelist SET p_uid = 7, iemiNo = '', uniqueKey = '', phoneState = '', buyPrice = , barcode = '' WHERE uid = 12 
+2014-10-08 21:45:08 =====================================================
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[] ORDER BY uid DESC' at line 1
+   위치: MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   위치: MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   위치: MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   위치: MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   위치: MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   위치: System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   위치: System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   위치: System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   위치: Phone1stBiz.DBUTIL.ExecuteDataSet(String dataQueryString, Int32 commandTimeOut) 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1stBiz\DB_Util.cs:줄 200
+    SELECT a.*, b.companyName FROM orderlist a LEFT JOIN companylist b ON a.companySn = b.uid  WHERE a.section = 2 AND a.companySn = System.Byte[] ORDER BY uid DESC 
+2014-10-08 21:45:08 =====================================================
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[] ORDER BY uid DESC' at line 1
+   위치: MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   위치: MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   위치: MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   위치: MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   위치: MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   위치: System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   위치: System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   위치: System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   위치: Phone1stBiz.DBUTIL.ExecuteDataSet(String dataQueryString, Int32 commandTimeOut) 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1stBiz\DB_Util.cs:줄 200
+    SELECT a.*, b.companyName FROM orderlist a LEFT JOIN companylist b ON a.companySn = b.uid  WHERE a.section = 2 AND a.companySn = System.Byte[] ORDER BY uid DESC 
+2014-10-08 21:45:09 =====================================================
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[] ORDER BY uid DESC' at line 1
+   위치: MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   위치: MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   위치: MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   위치: MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   위치: MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   위치: System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   위치: System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   위치: System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   위치: Phone1stBiz.DBUTIL.ExecuteDataSet(String dataQueryString, Int32 commandTimeOut) 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1stBiz\DB_Util.cs:줄 200
+    SELECT a.*, b.companyName FROM orderlist a LEFT JOIN companylist b ON a.companySn = b.uid  WHERE a.section = 2 AND a.companySn = System.Byte[] ORDER BY uid DESC 
+2014-10-08 21:47:43 =====================================================
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[] ORDER BY uid DESC' at line 1
+   위치: MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   위치: MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   위치: MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   위치: MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   위치: MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   위치: System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   위치: System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   위치: System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   위치: Phone1stBiz.DBUTIL.ExecuteDataSet(String dataQueryString, Int32 commandTimeOut) 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1stBiz\DB_Util.cs:줄 200
+    SELECT a.*, b.companyName FROM orderlist a LEFT JOIN companylist b ON a.companySn = b.uid  WHERE a.section = 2 AND a.companySn = System.Byte[] ORDER BY uid DESC 
+2014-10-08 21:48:29 =====================================================
+MySql.Data.MySqlClient.MySqlException (0x80004005): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[] ORDER BY uid DESC' at line 1
+   위치: MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   위치: MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   위치: MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   위치: MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   위치: MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   위치: MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   위치: System.Data.Common.DbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   위치: System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   위치: System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   위치: System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   위치: Phone1stBiz.DBUTIL.ExecuteDataSet(String dataQueryString, Int32 commandTimeOut) 파일 C:\Users\use\Downloads\Projects\Phone1st\Phone1stBiz\DB_Util.cs:줄 200
+    SELECT a.*, b.companyName FROM orderlist a LEFT JOIN companylist b ON a.companySn = b.uid  WHERE a.section = 2 AND a.companySn = System.Byte[] ORDER BY uid DESC 
