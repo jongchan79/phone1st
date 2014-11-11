@@ -115,3 +115,6 @@ F:\Phone1st_최종\Phone1st\obj\Release\Phone1st.UserControl1.resources
 F:\Phone1st_최종\Phone1st\obj\Release\Phone1st.csproj.GenerateResource.Cache
 F:\Phone1st_최종\Phone1st\obj\Release\Phone1st.exe.manifest
 F:\Phone1st_최종\Phone1st\obj\Release\Phone1st.application
+C:\Users\use\Documents\GitHub\phone1st\Phone1st\obj\Release\Phone1st.csproj.ResolveComReference.cache
+C:\Users\use\Documents\GitHub\phone1st\Phone1st\obj\Release\Phone1st.exe
+C:\Users\use\Documents\GitHub\phone1st\Phone1st\obj\Release\Phone1st.pdb

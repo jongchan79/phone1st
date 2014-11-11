@@ -35,8 +35,8 @@ namespace Phone1stBiz
             try
             {
                 // 팀뷰어 908 831 842 비번 3608
-                // myConn = new MySqlConnection("server=1.223.75.250; user id=phone1st; password=cksl7903; database=phone_db; Max Pool Size = 300; Min Pool Size = 10; pooling=true; Connection LifeTime = 600; Connection Timeout = 60;Charset=utf8;");
-                myConn = new MySqlConnection("server=localhost; user id=root; password=apmsetup; database=phone_db; Max Pool Size = 300; Min Pool Size = 10; pooling=true; Connection LifeTime = 600; Connection Timeout = 60;Charset=utf8;");
+                myConn = new MySqlConnection("server=1.223.75.250; user id=phone1st; password=cksl7903; database=phone_db; Max Pool Size = 300; Min Pool Size = 10; pooling=true; Connection LifeTime = 600; Connection Timeout = 60;Charset=utf8;");
+                // myConn = new MySqlConnection("server=localhost; user id=root; password=apmsetup; database=phone_db; Max Pool Size = 300; Min Pool Size = 10; pooling=true; Connection LifeTime = 600; Connection Timeout = 60;Charset=utf8;");
                 myConn.Open();
             }
             catch (Exception ex)
