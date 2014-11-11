@@ -90,7 +90,7 @@ namespace Phone1st.Forms
             grdOrder.Columns[5].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
             grdOrder.Columns[5].Width = 70;
             grdOrder.Columns[6].HeaderText = "메모";
-            grdOrder.Columns[6].Width = 260;
+            grdOrder.Columns[6].Width = 340;
             grdOrder.Columns[7].HeaderText = "등록자";
             grdOrder.Columns[7].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
             grdOrder.Columns[7].Width = 120;

@@ -28,8 +28,8 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle27 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle28 = new System.Windows.Forms.DataGridViewCellStyle();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.button1 = new System.Windows.Forms.Button();
             this.btnOrderDelete = new System.Windows.Forms.Button();
@@ -67,14 +67,14 @@
             this.groupBox1.Controls.Add(this.cbSearch);
             this.groupBox1.Location = new System.Drawing.Point(15, 15);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(1020, 365);
+            this.groupBox1.Size = new System.Drawing.Size(1085, 365);
             this.groupBox1.TabIndex = 10;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "매도 조회";
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(854, 20);
+            this.button1.Location = new System.Drawing.Point(914, 18);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(156, 23);
             this.button1.TabIndex = 52;
@@ -84,7 +84,7 @@
             // 
             // btnOrderDelete
             // 
-            this.btnOrderDelete.Location = new System.Drawing.Point(653, 20);
+            this.btnOrderDelete.Location = new System.Drawing.Point(721, 18);
             this.btnOrderDelete.Name = "btnOrderDelete";
             this.btnOrderDelete.Size = new System.Drawing.Size(80, 23);
             this.btnOrderDelete.TabIndex = 51;
@@ -94,7 +94,7 @@
             // 
             // btnPrint2
             // 
-            this.btnPrint2.Location = new System.Drawing.Point(743, 20);
+            this.btnPrint2.Location = new System.Drawing.Point(807, 18);
             this.btnPrint2.Name = "btnPrint2";
             this.btnPrint2.Size = new System.Drawing.Size(101, 23);
             this.btnPrint2.TabIndex = 50;
@@ -104,17 +104,17 @@
             // 
             // grdOrder
             // 
-            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
-            this.grdOrder.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle27.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.grdOrder.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle27;
             this.grdOrder.BackgroundColor = System.Drawing.Color.White;
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle2.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("굴림", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            dataGridViewCellStyle2.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.grdOrder.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle28.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle28.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle28.Font = new System.Drawing.Font("굴림", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            dataGridViewCellStyle28.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle28.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle28.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle28.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.grdOrder.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle28;
             this.grdOrder.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.grdOrder.GridColor = System.Drawing.SystemColors.ActiveCaption;
             this.grdOrder.Location = new System.Drawing.Point(20, 50);
@@ -123,7 +123,7 @@
             this.grdOrder.ReadOnly = true;
             this.grdOrder.RowTemplate.Height = 23;
             this.grdOrder.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.grdOrder.Size = new System.Drawing.Size(990, 300);
+            this.grdOrder.Size = new System.Drawing.Size(1050, 300);
             this.grdOrder.TabIndex = 15;
             this.grdOrder.SelectionChanged += new System.EventHandler(this.grdOrder_SelectionChanged);
             // 
@@ -140,7 +140,7 @@
             // 
             this.btnSearch.Image = global::Phone1st.Properties.Resources.search_glyph;
             this.btnSearch.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnSearch.Location = new System.Drawing.Point(498, 20);
+            this.btnSearch.Location = new System.Drawing.Point(496, 18);
             this.btnSearch.Name = "btnSearch";
             this.btnSearch.Size = new System.Drawing.Size(60, 23);
             this.btnSearch.TabIndex = 13;
@@ -176,7 +176,7 @@
             // 
             this.cbCompany.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cbCompany.FormattingEnabled = true;
-            this.cbCompany.Location = new System.Drawing.Point(15, 20);
+            this.cbCompany.Location = new System.Drawing.Point(20, 20);
             this.cbCompany.Name = "cbCompany";
             this.cbCompany.Size = new System.Drawing.Size(214, 20);
             this.cbCompany.TabIndex = 16;
@@ -190,16 +190,16 @@
             this.groupBox3.Controls.Add(this.panel1);
             this.groupBox3.Controls.Add(this.btnPhoneSearch);
             this.groupBox3.Controls.Add(this.cbCompany);
-            this.groupBox3.Location = new System.Drawing.Point(15, 395);
+            this.groupBox3.Location = new System.Drawing.Point(15, 390);
             this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(593, 240);
+            this.groupBox3.Size = new System.Drawing.Size(565, 240);
             this.groupBox3.TabIndex = 17;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "매도 관리";
             // 
             // btnDefault
             // 
-            this.btnDefault.Location = new System.Drawing.Point(502, 20);
+            this.btnDefault.Location = new System.Drawing.Point(481, 18);
             this.btnDefault.Name = "btnDefault";
             this.btnDefault.Size = new System.Drawing.Size(75, 23);
             this.btnDefault.TabIndex = 50;
@@ -209,7 +209,7 @@
             // 
             // btnSaveAll
             // 
-            this.btnSaveAll.Location = new System.Drawing.Point(421, 20);
+            this.btnSaveAll.Location = new System.Drawing.Point(401, 18);
             this.btnSaveAll.Name = "btnSaveAll";
             this.btnSaveAll.Size = new System.Drawing.Size(75, 23);
             this.btnSaveAll.TabIndex = 49;
@@ -219,17 +219,17 @@
             // 
             // txtMemo
             // 
-            this.txtMemo.Location = new System.Drawing.Point(90, 53);
+            this.txtMemo.Location = new System.Drawing.Point(71, 53);
             this.txtMemo.Multiline = true;
             this.txtMemo.Name = "txtMemo";
-            this.txtMemo.Size = new System.Drawing.Size(487, 69);
+            this.txtMemo.Size = new System.Drawing.Size(485, 70);
             this.txtMemo.TabIndex = 47;
             // 
             // label10
             // 
             this.label10.AutoSize = true;
             this.label10.Font = new System.Drawing.Font("굴림", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.label10.Location = new System.Drawing.Point(18, 56);
+            this.label10.Location = new System.Drawing.Point(20, 56);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(31, 12);
             this.label10.TabIndex = 48;
@@ -245,7 +245,7 @@
             // 
             // btnPhoneSearch
             // 
-            this.btnPhoneSearch.Location = new System.Drawing.Point(338, 20);
+            this.btnPhoneSearch.Location = new System.Drawing.Point(320, 18);
             this.btnPhoneSearch.Name = "btnPhoneSearch";
             this.btnPhoneSearch.Size = new System.Drawing.Size(75, 23);
             this.btnPhoneSearch.TabIndex = 17;
@@ -256,7 +256,7 @@
             // companyUC1
             // 
             this.companyUC1.BackColor = System.Drawing.Color.White;
-            this.companyUC1.Location = new System.Drawing.Point(611, 384);
+            this.companyUC1.Location = new System.Drawing.Point(675, 379);
             this.companyUC1.Name = "companyUC1";
             this.companyUC1.Size = new System.Drawing.Size(435, 190);
             this.companyUC1.TabIndex = 18;
@@ -271,7 +271,7 @@
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox1);
             this.Name = "SellMain";
-            this.Size = new System.Drawing.Size(1050, 650);
+            this.Size = new System.Drawing.Size(1100, 650);
             this.Load += new System.EventHandler(this.SellMain_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

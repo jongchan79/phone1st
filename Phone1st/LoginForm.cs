@@ -54,31 +54,31 @@ namespace Phone1st
                 }
                 else
                 {
-                    //if (Phone1stBiz.Communication.Firewall.AuthorizeProgram("Phone1st.exe", Environment.CurrentDirectory))
-                    //{
-                    //    string packetData = string.Concat("login|", txtID.Text, "|", txtPassword.Text);
+                    if (Phone1stBiz.Communication.Firewall.AuthorizeProgram("Phone1st.exe", Environment.CurrentDirectory))
+                    {
+                        string packetData = string.Concat("login|", txtID.Text, "|", txtPassword.Text);
 
-                    //    m_ClientSocket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+                        m_ClientSocket = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
 
-                    //    IPEndPoint ipep = new IPEndPoint(IPAddress.Parse("1.223.75.250"), 10000);
-                    //    SocketAsyncEventArgs args = new SocketAsyncEventArgs();
-                    //    args.RemoteEndPoint = ipep;
+                        IPEndPoint ipep = new IPEndPoint(IPAddress.Parse("1.223.75.250"), 10000);
+                        SocketAsyncEventArgs args = new SocketAsyncEventArgs();
+                        args.RemoteEndPoint = ipep;
 
-                    //    byte[] szData = Encoding.Unicode.GetBytes(packetData);
-                    //    args.SetBuffer(szData, 0, szData.Length);
-                    //    m_ClientSocket.ConnectAsync(args);
+                        byte[] szData = Encoding.Unicode.GetBytes(packetData);
+                        args.SetBuffer(szData, 0, szData.Length);
+                        m_ClientSocket.ConnectAsync(args);
 
-                    //    Thread.Sleep(1000);
+                        Thread.Sleep(1000);
 
-                    //    args = new SocketAsyncEventArgs();
-                    //    szData = new byte[2];
-                    //    args.SetBuffer(szData, 0, 2);
-                    //    args.UserToken = m_ClientSocket;
-                    //    args.Completed += new EventHandler<SocketAsyncEventArgs>(Receive_Completed);
-                    //    m_ClientSocket.ReceiveAsync(args);
-                    //}
-                    //else
-                    //    MessageBox.Show("방화벽 포트를 확인해주세요[10000]");
+                        args = new SocketAsyncEventArgs();
+                        szData = new byte[2];
+                        args.SetBuffer(szData, 0, 2);
+                        args.UserToken = m_ClientSocket;
+                        args.Completed += new EventHandler<SocketAsyncEventArgs>(Receive_Completed);
+                        m_ClientSocket.ReceiveAsync(args);
+                    }
+                    else
+                        MessageBox.Show("방화벽 포트를 확인해주세요[10000]");
 
                     //szData = new byte[2];
                     //string result = string.Empty;
@@ -93,29 +93,29 @@ namespace Phone1st
                     //MessageBox.Show(result);
 
                     #region 이전 소스 백업
-                    string result = user.LoginProcess(txtID.Text, txtPassword.Text);
-                    if (!string.IsNullOrEmpty(result))
-                    {
-                        if (result.Equals("-1"))
-                        {
-                            MessageBox.Show("사용기간이 종료되었습니다.");
-                        }
-                        else if (result.Equals("0"))
-                        {
-                            MessageBox.Show("일치하는 정보가 없습니다.");
-                        }
-                        else
-                        {
-                            User.LoginID = txtID.Text;
-                            User.ClientNo = result;
+                    //string result = user.LoginProcess(txtID.Text, txtPassword.Text);
+                    //if (!string.IsNullOrEmpty(result))
+                    //{
+                    //    if (result.Equals("-1"))
+                    //    {
+                    //        MessageBox.Show("사용기간이 종료되었습니다.");
+                    //    }
+                    //    else if (result.Equals("0"))
+                    //    {
+                    //        MessageBox.Show("일치하는 정보가 없습니다.");
+                    //    }
+                    //    else
+                    //    {
+                    //        User.LoginID = txtID.Text;
+                    //        User.ClientNo = result;
 
-                            this.DialogResult = DialogResult.OK;
-                        }
-                    }
-                    else
-                    {
-                        MessageBox.Show("일치하는 정보가 없습니다.");
-                    }
+                    //        this.DialogResult = DialogResult.OK;
+                    //    }
+                    //}
+                    //else
+                    //{
+                    //    MessageBox.Show("일치하는 정보가 없습니다.");
+                    //}
                     #endregion
                 }
             }

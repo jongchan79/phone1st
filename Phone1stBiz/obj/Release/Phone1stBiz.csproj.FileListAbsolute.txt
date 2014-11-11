@@ -39,3 +39,10 @@ F:\Phone1st_최종\Phone1stBiz\obj\Release\Phone1stBiz.pdb
 F:\Phone1st_최종\Phone1stBiz\obj\Release\Interop.NetFwTypeLib.dll
 F:\Phone1st_최종\Phone1stBiz\obj\Release\Phone1stBiz.csproj.ResolveComReference.cache
 F:\Phone1st_최종\Phone1stBiz\obj\Release\Phone1stBiz.csprojResolveAssemblyReference.cache
+C:\Users\use\Documents\GitHub\phone1st\Phone1stBiz\bin\Release\Phone1stBiz.dll
+C:\Users\use\Documents\GitHub\phone1st\Phone1stBiz\bin\Release\Phone1stBiz.pdb
+C:\Users\use\Documents\GitHub\phone1st\Phone1stBiz\bin\Release\MySql.Data.dll
+C:\Users\use\Documents\GitHub\phone1st\Phone1stBiz\obj\Release\Interop.NetFwTypeLib.dll
+C:\Users\use\Documents\GitHub\phone1st\Phone1stBiz\obj\Release\Phone1stBiz.csproj.ResolveComReference.cache
+C:\Users\use\Documents\GitHub\phone1st\Phone1stBiz\obj\Release\Phone1stBiz.dll
+C:\Users\use\Documents\GitHub\phone1st\Phone1stBiz\obj\Release\Phone1stBiz.pdb

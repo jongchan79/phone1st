@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             this.label3 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.btnPrint3 = new System.Windows.Forms.Button();
@@ -79,14 +79,14 @@
             this.groupBox1.Controls.Add(this.cbSearch);
             this.groupBox1.Location = new System.Drawing.Point(15, 15);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(1020, 365);
+            this.groupBox1.Size = new System.Drawing.Size(1085, 365);
             this.groupBox1.TabIndex = 9;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "매입 조회";
             // 
             // btnPrint3
             // 
-            this.btnPrint3.Location = new System.Drawing.Point(854, 18);
+            this.btnPrint3.Location = new System.Drawing.Point(914, 18);
             this.btnPrint3.Name = "btnPrint3";
             this.btnPrint3.Size = new System.Drawing.Size(156, 23);
             this.btnPrint3.TabIndex = 53;
@@ -96,7 +96,7 @@
             // 
             // btnOrderDelete
             // 
-            this.btnOrderDelete.Location = new System.Drawing.Point(650, 18);
+            this.btnOrderDelete.Location = new System.Drawing.Point(721, 18);
             this.btnOrderDelete.Name = "btnOrderDelete";
             this.btnOrderDelete.Size = new System.Drawing.Size(80, 23);
             this.btnOrderDelete.TabIndex = 52;
@@ -106,7 +106,7 @@
             // 
             // btnPrint2
             // 
-            this.btnPrint2.Location = new System.Drawing.Point(740, 18);
+            this.btnPrint2.Location = new System.Drawing.Point(807, 18);
             this.btnPrint2.Name = "btnPrint2";
             this.btnPrint2.Size = new System.Drawing.Size(101, 23);
             this.btnPrint2.TabIndex = 49;
@@ -117,14 +117,14 @@
             // grdOrder
             // 
             this.grdOrder.BackgroundColor = System.Drawing.Color.White;
-            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            dataGridViewCellStyle1.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle1.Font = new System.Drawing.Font("굴림", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            dataGridViewCellStyle1.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.grdOrder.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle3.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("굴림", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.grdOrder.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle3;
             this.grdOrder.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
             this.grdOrder.Cursor = System.Windows.Forms.Cursors.Hand;
             this.grdOrder.GridColor = System.Drawing.SystemColors.ButtonFace;
@@ -132,7 +132,7 @@
             this.grdOrder.Name = "grdOrder";
             this.grdOrder.RowTemplate.Height = 23;
             this.grdOrder.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.grdOrder.Size = new System.Drawing.Size(990, 300);
+            this.grdOrder.Size = new System.Drawing.Size(1050, 300);
             this.grdOrder.TabIndex = 15;
             this.grdOrder.SelectionChanged += new System.EventHandler(this.grdOrder_SelectionChanged);
             // 
@@ -193,7 +193,7 @@
             this.groupBox3.Controls.Add(this.cbBuyCompany);
             this.groupBox3.Location = new System.Drawing.Point(15, 390);
             this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(566, 240);
+            this.groupBox3.Size = new System.Drawing.Size(565, 240);
             this.groupBox3.TabIndex = 11;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "매입처리";
@@ -223,7 +223,7 @@
             this.txtMemo.Location = new System.Drawing.Point(71, 53);
             this.txtMemo.Multiline = true;
             this.txtMemo.Name = "txtMemo";
-            this.txtMemo.Size = new System.Drawing.Size(485, 69);
+            this.txtMemo.Size = new System.Drawing.Size(485, 70);
             this.txtMemo.TabIndex = 45;
             // 
             // label10
@@ -276,7 +276,7 @@
             // companyUC1
             // 
             this.companyUC1.BackColor = System.Drawing.Color.White;
-            this.companyUC1.Location = new System.Drawing.Point(611, 379);
+            this.companyUC1.Location = new System.Drawing.Point(675, 379);
             this.companyUC1.Name = "companyUC1";
             this.companyUC1.Size = new System.Drawing.Size(435, 190);
             this.companyUC1.TabIndex = 12;
@@ -292,7 +292,7 @@
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.label3);
             this.Name = "BuyMain";
-            this.Size = new System.Drawing.Size(1047, 650);
+            this.Size = new System.Drawing.Size(1100, 650);
             this.Load += new System.EventHandler(this.BuyMain_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
